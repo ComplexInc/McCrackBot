@@ -1,0 +1,5 @@
+mineflayer
+mineflayer-pathfinder
+socks
+mineflayer-tps
+mineflayer-pvp
